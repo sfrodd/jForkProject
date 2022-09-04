@@ -1,0 +1,47 @@
+.about{
+
+  background-color:lightcoral;
+  font-weight:normal;
+  font-size:20px;
+  font-family: Arial, Helvetica, sans-serif;
+  border-color: cadetblue;
+  border-radius: 1rem;
+  border-width: 2px;
+  border-style:ridge;
+  margin:0.5rem;
+  padding:1rem;
+  color:azure;
+  text-align: justify;
+}
+
+.img-ceo{
+   width:140px;
+   height:140px;
+   background-color:lightblue;
+   border-radius: 1rem;
+   border-style: double;
+   border-width: 2px;
+   border-style:ridge;
+   border-color: red;
+}
+
+.ad-anounce{
+  background-color:yellow;
+  color: red;
+  border-style: double;
+  border-width: 1rem;
+  border-radius: 1rem;
+  height: 30px;
+  width:150px;
+  margin-left: 2rem;
+}
+.img-ad{
+
+    width:250px;
+    height:350px;
+    background-color:lightblue;
+    border-radius: 1rem;
+    border-style: double;
+    border-width: 2px;
+    border-color: red;
+}

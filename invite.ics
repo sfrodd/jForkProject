@@ -1,0 +1,91 @@
+BEGIN:VCALENDAR
+PRODID:-//Microsoft Corporation//Outlook 16.0 MIMEDIR//EN
+VERSION:2.0
+METHOD:REQUEST
+X-MS-OLK-FORCEINSPECTOROPEN:TRUE
+BEGIN:VTIMEZONE
+TZID:India Standard Time
+BEGIN:STANDARD
+DTSTART:16010101T000000
+TZOFFSETFROM:+0530
+TZOFFSETTO:+0530
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+ATTENDEE;CN=srmangalwede@gmail.com;RSVP=TRUE:mailto:srmangalwede@gmail.com
+ATTENDEE;CN="Prashant G Nagathan";RSVP=TRUE:mailto:prashantgn@peolsolutions
+	.com
+ATTENDEE;CN="Abhishek Prakash";RSVP=TRUE:mailto:abhishek.p@peolsolutions.co
+	m
+CLASS:PUBLIC
+CREATED:20220819T100511Z
+DESCRIPTION:Dear Srinivas sir\,\n\n \n\nGood day!\n\n \n\nFurther to our di
+	scussion\, please find below the meeting details:\n\n \n\nJoin Zoom Meetin
+	g\n\nhttps://us06web.zoom.us/j/89697106372?pwd=cjM4TWNVNklrZ2ZBaW8yRVgvbVp
+	MZz09\n\n \n\nMeeting ID: 896 9710 6372\n\nPasscode: 493090\n\n \n\nRegard
+	s\,\n\nNidhi\n\n \n\n
+DTEND;TZID="India Standard Time":20220822T120000
+DTSTAMP:20220819T100511Z
+DTSTART;TZID="India Standard Time":20220822T110000
+LAST-MODIFIED:20220819T100511Z
+ORGANIZER;CN="Nidhi Jain":mailto:nidhi.jain@peolsolutions.com
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=en-in:PEOL | AI Solution | Brief discussion
+TRANSP:OPAQUE
+UID:040000008200E00074C5B7101A82E008000000001043EF0CE1B3D801000000000000000
+	0100000009915D7768378FD4D95ABFD3A139CC0D4
+X-ALT-DESC;FMTTYPE=text/html:<html xmlns:v="urn:schemas-microsoft-com:vml" 
+	xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-mic
+	rosoft-com:office:word" xmlns:m="http://schemas.microsoft.com/office/2004/
+	12/omml" xmlns="http://www.w3.org/TR/REC-html40"><head><meta http-equiv=Co
+	ntent-Type content="text/html\; charset=us-ascii"><meta name=Generator con
+	tent="Microsoft Word 15 (filtered medium)"><style><!--\n/* Font Definition
+	s */\n@font-face\n	{font-family:"Cambria Math"\;\n	panose-1:2 4 5 3 5 4 6 
+	3 2 4\;}\n@font-face\n	{font-family:Calibri\;\n	panose-1:2 15 5 2 2 2 4 3 
+	2 4\;}\n/* Style Definitions */\np.MsoNormal\, li.MsoNormal\, div.MsoNorma
+	l\n	{margin:0cm\;\n	margin-bottom:.0001pt\;\n	font-size:11.0pt\;\n	font-fa
+	mily:"Calibri"\,sans-serif\;\n	mso-fareast-language:EN-US\;}\na:link\, spa
+	n.MsoHyperlink\n	{mso-style-priority:99\;\n	color:#0563C1\;\n	text-decorat
+	ion:underline\;}\na:visited\, span.MsoHyperlinkFollowed\n	{mso-style-prior
+	ity:99\;\n	color:#954F72\;\n	text-decoration:underline\;}\np.msonormal0\, 
+	li.msonormal0\, div.msonormal0\n	{mso-style-name:msonormal\;\n	mso-margin-
+	top-alt:auto\;\n	margin-right:0cm\;\n	mso-margin-bottom-alt:auto\;\n	margi
+	n-left:0cm\;\n	font-size:12.0pt\;\n	font-family:"Times New Roman"\,serif\;
+	}\nspan.EmailStyle18\n	{mso-style-type:personal\;\n	font-family:"Calibri"\
+	,sans-serif\;\n	color:windowtext\;}\nspan.EmailStyle19\n	{mso-style-type:p
+	ersonal-reply\;\n	font-family:"Calibri"\,sans-serif\;\n	color:#1F497D\;}\n
+	.MsoChpDefault\n	{mso-style-type:export-only\;\n	font-size:10.0pt\;}\n@pag
+	e WordSection1\n	{size:612.0pt 792.0pt\;\n	margin:72.0pt 72.0pt 72.0pt 72.
+	0pt\;}\ndiv.WordSection1\n	{page:WordSection1\;}\n--></style><!--[if gte m
+	so 9]><xml>\n<o:shapedefaults v:ext="edit" spidmax="1026" />\n</xml><![end
+	if]--><!--[if gte mso 9]><xml>\n<o:shapelayout v:ext="edit">\n<o:idmap v:e
+	xt="edit" data="1" />\n</o:shapelayout></xml><![endif]--></head><body lang
+	=EN-IN link="#0563C1" vlink="#954F72"><div class=WordSection1><p class=Mso
+	Normal>Dear Srinivas sir\,<o:p></o:p></p><p class=MsoNormal><o:p>&nbsp\;</
+	o:p></p><p class=MsoNormal>Good day!<o:p></o:p></p><p class=MsoNormal><o:p
+	>&nbsp\;</o:p></p><p class=MsoNormal>Further to our discussion\, please fi
+	nd below the meeting details:<o:p></o:p></p><p class=MsoNormal><o:p>&nbsp\
+	;</o:p></p><p class=MsoNormal>Join Zoom Meeting<o:p></o:p></p><p class=Mso
+	Normal><a href="https://us06web.zoom.us/j/89697106372?pwd=cjM4TWNVNklrZ2ZB
+	aW8yRVgvbVpMZz09">https://us06web.zoom.us/j/89697106372?pwd=cjM4TWNVNklrZ2
+	ZBaW8yRVgvbVpMZz09</a><o:p></o:p></p><p class=MsoNormal><o:p>&nbsp\;</o:p>
+	</p><p class=MsoNormal>Meeting ID: 896 9710 6372<o:p></o:p></p><p class=Ms
+	oNormal>Passcode: 493090<o:p></o:p></p><p class=MsoNormal><o:p>&nbsp\;</o:
+	p></p><p class=MsoNormal>Regards\,<o:p></o:p></p><p class=MsoNormal>Nidhi<
+	o:p></o:p></p><p class=MsoNormal><span style='color:#1F497D'><o:p>&nbsp\;<
+	/o:p></span></p></div></body></html>
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-AUTOSTARTCHECK:FALSE
+X-MS-OLK-CONFTYPE:0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+END:VCALENDAR
+
